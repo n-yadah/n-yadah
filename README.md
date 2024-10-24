@@ -6,7 +6,7 @@
 </a>
 </p>
 
-<h2 align = "center"> Tools and Frameworks </h2>
+<h2 align = "center"> Technologies and Tools </h2>
 
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge" height="40"/>
