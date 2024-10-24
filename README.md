@@ -27,7 +27,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/-Assembly-6E6E6E?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/-Embedded%20Systems-000000?style=for-the-badge" height="40"/>
