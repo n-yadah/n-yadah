@@ -1,8 +1,10 @@
-# Hello World! I'm Yadah Ngolo
+<h1 align = "center"> Hello World! I'm Yadah Ngolo </h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yadah-ngolo-b866501b3/)
+<a href="https://www.linkedin.com/in/yadah-ngolo-b866501b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+</a>
 
-## Tools and Frameworks
+<h2 align = "center"> Tools and Frameworks </h2>
 
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge" height="40"/>
@@ -15,7 +17,7 @@
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40"/>
@@ -25,7 +27,7 @@
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/-Assembly-6E6E6E?style=for-the-badge" height="40"/>
@@ -33,8 +35,12 @@
   <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azure-devops&logoColor=white&style=for-the-badge" height="40"/>
 </p>
 
-<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="GitHub Octocat" width="150" />
+<p align="center">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="GitHub Octocat" width="150" />
+</p>
 
-<div style="text-align:center;">
+<div></div>
+
+<p align="center">
    Profile views: <strong>1,809</strong>
-</div>
+</p>
