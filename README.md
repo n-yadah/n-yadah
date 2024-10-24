@@ -13,7 +13,7 @@
 
 <h2 align = "center"> Technologies and Tools </h2>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
