@@ -49,5 +49,5 @@
 <div></div>
 
 <p align="center">
-   Profile views: <strong>1,809</strong>
+   ![Profile Views]https://komarev.com/ghpvc/?username=n-yadah&color=blue)
 </p>
