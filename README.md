@@ -49,5 +49,5 @@
 <div></div>
 
 <p align="center">
-   ![Profile Views]https://komarev.com/ghpvc/?username=n-yadah&color=blue)
+  <img src="https://komarev.com/ghpvc/?username=YadahNgolo&color=blue" alt="Profile Views" />
 </p>
