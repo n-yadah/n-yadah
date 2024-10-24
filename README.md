@@ -9,9 +9,6 @@
   <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" height="40"/>
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40"/>
