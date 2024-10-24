@@ -6,6 +6,9 @@
 </a>
 </p>
 
+<br>
+<br>
+
 <h2 align = "center"> Technologies and Tools </h2>
 
 <p align="left">
