@@ -1,6 +1,8 @@
 <h1 align = "center"> Hi there! I'm Yadah Ngolo </h1>
 
 <br>
+<br>
+
 <p align = "center">
 <a href="https://www.linkedin.com/in/yadah-ngolo-b866501b3/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" height="50" />
