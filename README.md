@@ -23,17 +23,14 @@
   <img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40"/>
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/-Assembly-6E6E6E?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/-Embedded%20Systems-000000?style=for-the-badge" height="40"/>
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azure-devops&logoColor=white&style=for-the-badge" height="40"/>
 </p>
