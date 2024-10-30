@@ -12,8 +12,12 @@
 <br>
 
 <div align = "center">
+    
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=n-yadah&theme=dark&card_width=400)](https://git.io/streak-stats)
+<br>
+<br>
+    
 </div>
 
 <h2 align = "center"> Technologies and Tools </h2>
