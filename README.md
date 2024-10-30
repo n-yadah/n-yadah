@@ -1,10 +1,11 @@
-<p align="center">
+<div align="center">
   
 # Hi there! I'm Yadah Ngolo
-
-</p>
-
 <br>
+
+</div>
+
+
 
 
 <p align="center">
