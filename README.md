@@ -3,6 +3,10 @@
 <br>
 <br>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=International+Student;++;University+of+Ottawa;Electrical+Engineering+Computing+Technology+Student;Learn+-It-+All;Here+to+bridge+Gaps!"></a>
+</p>
+
 <p align = "center">
 <a href="https://www.linkedin.com/in/yadah-ngolo-b866501b3/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" height="50" />
