@@ -11,6 +11,10 @@
 
 <br>
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nyadah&theme=dark&card_width=400)](https://git.io/streak-stats)
+
+
 <h2 align = "center"> Technologies and Tools </h2>
 
 <p align="center">
