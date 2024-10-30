@@ -1,4 +1,8 @@
-<h1 align = "center">        Hi there! I'm Yadah Ngolo</h1>
+<p align="center">
+  
+# Hi there! I'm Yadah Ngolo
+
+</p>
 
 <br>
 
