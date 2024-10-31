@@ -12,13 +12,13 @@
 </p>
 
 
-<p align = "center">
+<div align = "center">
 
 ### Let's connect!
 <a href="https://www.linkedin.com/in/yadah-ngolo-b866501b3/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" height="50" />
 </a>
-</p>
+</div>
 
 <br>
 
