@@ -25,7 +25,7 @@
 <div align = "center">
     
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats-lime-beta.vercel.app?user=n-yadah&theme=microsoft-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-lime-beta.vercel.app?user=n-yadah&theme=sunset-gradient)](https://git.io/streak-stats)
 <br>
 <br>
     
