@@ -1,7 +1,6 @@
 <div align="center">
   
-# 𝓗𝓲 𝓽𝓱𝓮𝓻𝓮! 
-<h2 style="font-family: Arial, sans-serif;"> I'm Yadah Ngolo</h1>
+# Who is Yadah ? 
 
 
 <br>
